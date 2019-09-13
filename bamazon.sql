@@ -28,3 +28,7 @@ VALUES (104, "Head and Shoulders", "Cosmetics", 6.99, 150),
 	   (976, "Diapers", "Children", 12.75, 48)
 
 
+
+
+
+
