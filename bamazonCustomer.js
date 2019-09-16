@@ -15,7 +15,7 @@ function start() {
   connection.query('SELECT * FROM Products', function (err, res) {
     if (err) throw err;
 
-    console.log('_.~"~._.~"~._.~Welcome to BAMAZON~._.~"~._.~"~._')
+    console.log('_.~"~._.~"~.==================.~Welcome to BAMAZON~.===================.~"~._.~"~._')
     console.log('----------------------------------------------------------------------------------------------------')
 
     for (var i = 0; i < res.length; i++) {
